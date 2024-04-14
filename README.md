@@ -22,8 +22,12 @@ Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal
 </div>
 
 ### Estatísticas do meu GitHub:
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ugobraia&theme=dark&langs_count=5&layout=compact&locale=pt-br)
-![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ugobraia&show_icons=true&theme=dark&locale=pt-br)
+<div style:'display: flex'>
+  
+  ![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ugobraia&show_icons=true&theme=dark&locale=pt-br)<br>
+  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ugobraia&theme=dark&langs_count=5&layout=compact&locale=pt-br)
+  
+</div>
 
 ### Entre em contato comigo:
 <a href='mailto:hblimaafonso@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
