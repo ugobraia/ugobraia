@@ -1,46 +1,32 @@
 ## Oi oi, meu nome é Hugo :)
 
-Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal de Catalão (UFCAT) e atualmente estou estudando para me tornar um desenvolvedor Full-Stack.
+Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal de Catalão (UFCAT) e atualmente estou estudando para me tornar um desenvolvedor Web Full-Stack. Sou cordial e estou sempre disposto a aprender com meus erros e melhorar profissionalmente.
 
-### Linguagens mais utilizadas:
+- 🎓 Atualmente no 9º período;
+- 📚 Estudando no momento: JavaScript, HTML5 e CSS3 atualmente; 
+- 📆 No plano de estudos: TypeScript, Git, SASS, BootStrap, React, Next JS, Node JS, MongoDB;
+- 😃 Gentil, cordial e de aprendizado rápido
+
+### Linguagens que mais utilizo:
 <div style:'display: inline-block'>
-  <img align='center' height ='40' width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
-  <img align='center' height ='40' width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
-  <img align='center' height ='40' width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+  <img align='center' src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align='center' src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align='center' src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
 ### Conhecimento básico - intermediário:
 <div style:'display: inline-block>
-  <img height ='40' width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
-  <img height ='40' width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
-  <img height ='40' width='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
 
-### Contato:
+### Estatísticas do meu GitHub:
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ugobraia&theme=dark&langs_count=5&layout=compact&locale=pt-br)
+![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ugobraia&show_icons=true&theme=dark&locale=pt-br)
+
+### Entre em contato comigo:
 <a href='mailto:hblimaafonso@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
 <a href='https://www.instagram.com/ugobry_n/' target='_blank'><img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white'></a>
 <a href='https://www.linkedin.com/in/hugo-bryan-lima-afonso-67519a270/' target='_blank'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)'></a>
 <br>
-
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ugobraia&theme=dark&langs_count=5&layout=compact&locale=pt-br)
-  
-![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ugobraia&show_icons=true&theme=dark&locale=pt-br)
-
-
-
-
-<!--
-**ugobraia/ugobraia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
