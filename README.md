@@ -1,4 +1,4 @@
-## Oioi, meu nome é Hugo :)
+## Oi oi, meu nome é Hugo :)
 
 Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal de Catalão (UFCAT) e atualmente estou estudando para me tornar um desenvolvedor Full-Stack.
 
