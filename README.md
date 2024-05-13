@@ -4,7 +4,7 @@ Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal
 
 - 🎓 Atualmente no 9º período;
 - 🗣️ Inglês avançado, formado no centro de ensino Fisk;
-- 📚 Estudando no momento: JavaScript, HTML5 e CSS3 atualmente; 
+- 📚 Estudando no momento: JavaScript, HTML5 e CSS3;
 - 📆 No plano de estudos: TypeScript, Git, SASS, BootStrap, React, Next JS, Node JS, MongoDB;
 - 😃 Gentil, cordial e de aprendizado rápido.
 
