@@ -1,4 +1,4 @@
-## Oi oi, meu nome é Hugo Bryan :)
+## Olá, meu nome é Hugo Bryan :)
 
 Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal de Catalão (UFCAT) e atualmente estou estudando para me tornar um desenvolvedor Web Full-Stack. Sou cordial e estou sempre disposto a aprender com meus erros e melhorar profissionalmente.
 
