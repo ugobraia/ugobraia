@@ -1,10 +1,10 @@
 ## Olá, meu nome é Hugo Bryan :)
 
-Tenho 21 anos, sou estudante de Ciência da Computação na Universidade Federal de Catalão (UFCAT) e atualmente estou estudando para me tornar um desenvolvedor Web Full-Stack. Sou cordial e estou sempre disposto a aprender com meus erros e melhorar profissionalmente.
+Tenho 22 anos, sou estudante de Ciência da Computação na Universidade Federal de Catalão (UFCAT) e atualmente estou estudando para me tornar um desenvolvedor Web Full-Stack. Sou cordial e estou sempre disposto a aprender com meus erros e melhorar profissionalmente.
 
-- 🎓 Atualmente no 9º período;
-- 🗣️ Inglês avançado, formado no centro de ensino Fisk;
-- 📚 Estudando no momento: JavaScript, HTML5 e CSS3;
+- 🎓 Atualmente no 10º período;
+- 🗣️ Inglês avançado, formado no centro de ensino Fisk; Francês e Espanhol básico;
+- 📚 Estudando no momento: JavaScript, HTML5, CSS3, PHP;
 - 📆 No plano de estudos: TypeScript, Git, SASS, BootStrap, React, Next JS, Node JS, MongoDB;
 - 😃 Gentil, cordial e de aprendizado rápido.
 
