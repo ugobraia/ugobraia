@@ -5,7 +5,7 @@ Sou **Cientista da Computação**, formado pela **Universidade Federal de Catal�
 Tenho experiência com **HTML, CSS, JavaScript**, **Typescript**, **React**, **Next.js** e **banco de dados MySQL**, realizando consultas, atualizações e manutenção de dados, além de uma base sólida em lógica de programação e boas práticas de desenvolvimento. Estou sempre buscando evoluir tecnicamente e aprender novas tecnologias.
 
 ### 🌐 Idiomas
-- 🗣️ **Inglês avançado** (formado pelo centro de ensino Fisk)  
+- 🇺🇸 **Inglês avançado** (formado pelo centro de ensino Fisk)  
 - 🇫🇷 **Francês básico**  
 - 🇪🇸 **Espanhol básico**
 
