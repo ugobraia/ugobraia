@@ -1,11 +1,30 @@
-## Olá, meu nome é Hugo Bryan :)
+## Olá, eu sou o Hugo Bryan 👋
 
-Tenho 22 anos, sou cientista da computação, formado pela Universidade Federal de Catalão (UFCAT) e atualmente estou estudando para me tornar um desenvolvedor Web Full-Stack. Sou cordial e estou sempre disposto a aprender com meus erros e melhorar profissionalmente.
+Sou **Cientista da Computação**, formado pela **Universidade Federal de Catalão (UFCAT)**, e atuo como **Desenvolvedor Júnior**, com foco em **desenvolvimento web**. Atualmente estou em formação como **Desenvolvedor Web Full Stack**, com grande interesse em **back-end com Python** e aplicações modernas.
 
-- 🗣️ Inglês avançado, formado no centro de ensino Fisk; Francês e Espanhol básico;
-- 📚 Estudando no momento: JavaScript, HTML5, CSS3, PHP, MySQL;
-- 📆 No plano de estudos: TypeScript, Git, SASS, BootStrap, React, Next JS, Node JS, MongoDB;
-- 😃 Gentil, cordial e de aprendizado rápido.
+Tenho experiência com **HTML, CSS, JavaScript**, **Typescript**, **React**, **Next.js** e **banco de dados MySQL**, realizando consultas, atualizações e manutenção de dados, além de uma base sólida em lógica de programação e boas práticas de desenvolvimento. Estou sempre buscando evoluir tecnicamente e aprender novas tecnologias.
+
+### 🌐 Idiomas
+- 🗣️ **Inglês avançado** (formado pelo centro de ensino Fisk)  
+- 🇫🇷 **Francês básico**  
+- 🇪🇸 **Espanhol básico**
+
+### 📚 Estudos atuais
+- **Next.js**
+- **Django**  
+- **FastAPI**
+
+### 🧠 No plano de estudos
+- **SASS**
+- **Bootstrap**
+- **Node.js**
+- **MongoDB**
+- **FastAPI**
+
+### 🚀 Sobre mim
+- 😃 Comunicativo, cordial e colaborativo  
+- ⚡ Aprendizado rápido e facilidade para adaptação a novas tecnologias  
+- 🔎 Interesse em back-end, APIs, integrações e soluções com IA  
 
 ### Linguagens que mais utilizo:
 <div style:'display: inline-block'>
